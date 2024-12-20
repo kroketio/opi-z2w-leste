@@ -12,3 +12,5 @@ person on the forums
 
 > I can confirm that the provided image boots on a Zero 2W.
 As mentioned above the device tree reference had to be changed to sun50i-h618-orangepi-zero2w.dtb in extlinux.conf.
+
+Grab latest kernel?
