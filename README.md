@@ -14,3 +14,9 @@ person on the forums
 As mentioned above the device tree reference had to be changed to sun50i-h618-orangepi-zero2w.dtb in extlinux.conf.
 
 Grab latest kernel?
+
+# 1.5gb ram model
+
+person on the forums
+
+> If you’re going to use Zero, don’t buy the 1.5GB version, it can be made to work right away, but it will require a separate bootloader image, making it of little use compared to other versions of the board
